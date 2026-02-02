@@ -24,7 +24,7 @@ a quick tl;dr of proof of no future stuff used:
    - Features are calculated from raw climate risk counts
    - No derivatives of futures prices used
 ```
-
+TL;DR of why and how the model's features rationale was arrived at can be better seen in [the jupyter notebook showcasing the _journey_](model_rationale.ipynb)
 ## Now Let's see the fun stuff!!!!!
 
 ## what pipeline did my detective work result in?
